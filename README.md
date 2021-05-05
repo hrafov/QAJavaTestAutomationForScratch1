@@ -23,7 +23,7 @@ To Run Allure reporting, use following steps:
 
 ## Login
 
-To login into the Telescope, use your own credentials.
+To login into the Scratch site, use your own credentials.
 This is a path to the credentials: TestProject-develop\src\main\resources
 
 ---
