@@ -1,6 +1,6 @@
 
 # TESTING Scratch site
-> This is a internal project for UI, API and integration testing Testscope. All UI tests are running on Chrome browser.
+> This is a internal project for UI, API and integration testing Scratch site. All UI tests are running on Chrome browser.
 
 ---
 
